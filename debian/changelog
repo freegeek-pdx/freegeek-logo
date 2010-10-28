@@ -1,0 +1,5 @@
+freegeek-logo (0.1.0-1) freegeek-test; urgency=low
+
+  * Initial release.
+
+ -- Vagrant Cascadian <vagrant@debian.org>  Wed, 27 Oct 2010 18:07:16 -0700
